@@ -1,2 +1,3 @@
 # VR-campl
-Atividades que eu fiz no curso da escola VR
+Atividades que eu no curso de Java
+
